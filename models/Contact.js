@@ -1,1 +1,8 @@
-// TODO: Create Contact model and export it
+class Contact {
+    constructor(name, numb) {
+        this.name = name;
+        this.numb = numb;
+    }
+}
+
+module.exports = Contact;
