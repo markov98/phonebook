@@ -1,7 +1,7 @@
 class Contact {
-    constructor(name, numb) {
+    constructor(name, number) {
         this.name = name;
-        this.numb = numb;
+        this.number = number;
     }
 }
 
